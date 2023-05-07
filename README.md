@@ -1,20 +1,18 @@
-### Hi 👋, I'm Sharon
+### Hi 👋, I'm Sharon from Zimbabwe
 
 
 
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on [...](https://github.com/schawanji/locallibrary)
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
+- 🔭 I’m currently working on [Locallibrary Django App](https://github.com/schawanji/locallibrary)
+- 🌱 I’m currently learning Django Framework
+<!--- 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: 
-- ⚡ Fun fact: ...
+- ⚡ Fun fact: ...-->
 
-
-<h3 align="center">A passionate frontend developer from Zimbabwe</h3>
 
 
 
