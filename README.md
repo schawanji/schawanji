@@ -1,10 +1,5 @@
 ### Hi 👋, I'm Sharon from Zimbabwe
 
-
-
-
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on [Locallibrary Django App](https://github.com/schawanji/locallibrary)
 - 🌱 I’m currently learning Django Framework
 <!--- 👯 I’m looking to collaborate on ...
