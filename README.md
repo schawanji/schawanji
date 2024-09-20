@@ -1,6 +1,6 @@
 ## Hi there! 👋 I'm Sharon from Zimbabwe
 
-I am a passionate frontend developer with a background in Geographic Information Systems and Spatial Data Science. Currently, I am working on the [Locallibrary Django App](https://github.com/schawanji/locallibrary) and expanding my knowledge of the Django framework.
+I am a passionate frontend developer with a background in Geographic Information Systems and Spatial Data Science. Currently, I am working on the [Geoconnect](https://github.com/schawanji/geoconnect).
 
 ### Languages and Tools:
 
