@@ -1,6 +1,6 @@
 ## Hi there! 👋 I'm Sharon from Zimbabwe
 
-I am a passionate frontend developer with a background in Geographic Information Systems and Spatial Data Science. Currently, I am working on the [Geoconnect](https://github.com/schawanji/geoconnect).
+I am a passionate frontend developer with a background in Geographic Information Systems and Spatial Data Science. Currently, I am working on the [geospatial-lab-platform](https://github.com/schawanji/geospatial-lab-platform) Portifolio Projects.
 
 ### Languages and Tools:
 
